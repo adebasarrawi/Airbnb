@@ -1,0 +1,35 @@
+.hover-text:hover i,
+.hover-text:hover p {
+  color: black !important; 
+  text-decoration: underline !important; 
+}
+.navy{
+    border-bottom: 2px groove rgb(227, 224, 224);
+    background-color: white;
+}
+.fullter{
+  width:100px !important;
+  height: 50px !important;
+}
+
+.img1{
+  width: 100px  ;
+
+}
+
+ul li {
+ list-style: none;
+}
+
+.drop{
+  border: 1px solid black !important;
+  border-radius: 20px;
+}
+
+.dropdown-toggle::before {display: none !important; }
+
+.img0{
+  width: 300px !important;
+  height: 300px !important;
+  border-radius: 15px !important;
+}
